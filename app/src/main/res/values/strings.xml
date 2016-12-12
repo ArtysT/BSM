@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BSM</string>
+
+
+    <string name="prompt_message">Message</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="view_message">View Message</string>
+    <string name="return_button">Return</string>
+    <string name="change_password">Change Password</string>
+    <string name="error_incorrect_password">Password is incorrect</string>
+    <string name="error_incorrect_data">Data is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="prompt_new_password">New Password</string>
+    <string name="fingerprint_description">Confirm fingerprint to continue</string>
+    <string name="fingerprint_hint">Touch sensor</string>
+    <string name="password">Password</string>
+    <string name="password_description">Enter your store password to continue</string>
+</resources>
